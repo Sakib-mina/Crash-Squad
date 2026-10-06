@@ -1,0 +1,6 @@
+{
+  "name": "Crash Squad",
+  "description": "Original tropical island slingshot physics destruction game with characters, structures, upgrades, and missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

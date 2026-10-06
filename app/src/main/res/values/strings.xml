@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crash Squad</string>
+    <string name="app_subtitle">Island Strike</string>
+    <string name="play">Play</string>
+    <string name="heroes">Heroes</string>
+    <string name="shop">Shop</string>
+    <string name="missions">Missions</string>
+    <string name="daily_reward">Daily Reward</string>
+    <string name="settings">Settings</string>
+    <string name="sound">Sound</string>
+    <string name="music">Music</string>
+    <string name="vibration">Vibration</string>
+    <string name="language">Language</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    <string name="level_complete">Level Complete!</string>
+    <string name="next_level">Next Level</string>
+    <string name="home">Home</string>
+    <string name="retry">Retry</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="purchase_successful">Purchase Successful!</string>
+    <string name="purchase_cancelled">Purchase cancelled.</string>
+    <string name="purchase_failed">Purchase could not be completed.</string>
+</resources>
